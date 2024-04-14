@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: https://ksm463.github.io/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Archives"
+    url: /year-archive/
+  # - title: "Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "MM Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
