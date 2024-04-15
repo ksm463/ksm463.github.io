@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://ksm463.github.io/
+    url: /
   - title: "About"
     url: /about/
   - title: "Categories"
