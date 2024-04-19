@@ -110,10 +110,4 @@ classes: wide
 |4|`2022.11.15 ~ 2022.11.23`|**Python을 이용한 미국 총기사건 현황 시각화**|`Visualization`|
 
 
-
-
 <br>
-<br>
-
-| <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksm463&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksm463&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
